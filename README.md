@@ -1,0 +1,1 @@
+The world's simplest "optimizing" brainfuck interpreter.
